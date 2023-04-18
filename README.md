@@ -3,7 +3,9 @@ JESS FATTA
 
 Front End Engineering student at Turing School of Software & Design
 
-![](https://user-images.githubusercontent.com/89413488/146047454-76c338a3-4d65-44d1-91e2-034d4a9445db.png)
+![](https://user-images.githubusercontent.com/89413488/232888278-7f592af0-a92a-45c2-b3a7-d5cd2463ac13.png)
+
+
 
 ---------
 ### Contact Me
